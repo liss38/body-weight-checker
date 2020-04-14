@@ -1,0 +1,19 @@
+{
+  "name": "body-weight-checker",
+  "version": "1.0.0",
+  "description": "Body weight checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liss38/body-weight-checker.git"
+  },
+  "author": "Max",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liss38/body-weight-checker/issues"
+  },
+  "homepage": "https://github.com/liss38/body-weight-checker#readme"
+}
